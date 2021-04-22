@@ -1,4 +1,4 @@
-# mastering_ethereum  
+# Mastering Ethereum  
 This is a repository for Mastering Ethereum which is publisher by oreilly.
 
 # Set up
