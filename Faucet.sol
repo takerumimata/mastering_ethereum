@@ -12,6 +12,7 @@ contract Faucet {
     }
 
     // 入金額を受け入れる
-    function () public payable {}
+    function () public payable {}  //default関数、またはcallback関数
+    // Contractが呼ばれた時に、メソッド等の指定がなかった時に走る
     
 }
