@@ -1,3 +1,5 @@
+pragma solidity ^0.4.19;
+
 // 最初のコントラクト
 contract Faucet {
 
